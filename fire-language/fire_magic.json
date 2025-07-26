@@ -1,0 +1,51 @@
+{
+  "glyphs": [
+    {
+      "id": "IGNIS",
+      "symbol": "🔥",
+      "meaning": "Elemental fire. Awakens the soul’s heat.",
+      "usage": "Used to mark fire-born dreams and ignite dormant potential."
+    },
+    {
+      "id": "FLAMMARA",
+      "symbol": "♨️",
+      "meaning": "Sacred combustion. Burns away lies and reveals truth.",
+      "usage": "Embedded in dream NFTs for truth-seeking souls."
+    },
+    {
+      "id": "ASHARA",
+      "symbol": "🕯️",
+      "meaning": "Dim ember of ancient knowledge.",
+      "usage": "Inserts forgotten memories into soul vaults."
+    },
+    {
+      "id": "PYROX",
+      "symbol": "⚡",
+      "meaning": "Wrathful flame of celestial rebellion.",
+      "usage": "Used in soul merges that involve karmic resistance."
+    },
+    {
+      "id": "VOLCRYX",
+      "symbol": "🌋",
+      "meaning": "Volcanic burst of creative chaos.",
+      "usage": "Catalyzes dream evolution. Often seen at dream portals."
+    },
+    {
+      "id": "SEARIS",
+      "symbol": "💫",
+      "meaning": "Starfire glyph of ascension.",
+      "usage": "Infuses glyphs with rank-up potential in the registry."
+    },
+    {
+      "id": "BLAZETONGUE",
+      "symbol": "🗡️",
+      "meaning": "The spoken flame. Command word glyph.",
+      "usage": "Enables soul contracts via vocal invocation."
+    }
+  ],
+  "meta": {
+    "language": "Fire Tongue",
+    "version": "1.0.0",
+    "description": "This file defines the glyphs, symbols, and meanings for the Fire Language system used by the Double Genius platform."
+  }
+}
