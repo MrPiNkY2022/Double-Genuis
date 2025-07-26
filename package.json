@@ -1,0 +1,17 @@
+{
+  "name": "double-genius",
+  "version": "1.0.0",
+  "description": "Soul + Dream blockchain system with Fire Glyphs and Portal logic",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "deploy": "npx hardhat run scripts/deploy.js --network localhost"
+  },
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^3.0.0",
+    "ethers": "^6.8.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.22.1"
+  }
+}
