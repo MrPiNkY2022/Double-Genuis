@@ -1,0 +1,20 @@
+double-genius/
+├── contracts/                # Solidity smart contracts
+│   ├── SoulVault.sol
+│   ├── DreamToken.sol
+│   └── FireLanguage.sol
+├── frontend/                 # React + Tailwind frontend
+│   ├── src/
+│   │   ├── components/
+│   │   ├── pages/
+│   │   └── App.tsx
+│   └── public/
+├── scripts/                  # Deployment & testing scripts
+│   └── deploy.js
+├── backend/                  # Optional: Node.js or Python backend
+│   └── index.js
+├── .gitignore
+├── README.md
+├── package.json
+├── hardhat.config.js
+└── LICENSE
