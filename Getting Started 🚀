@@ -1,0 +1,19 @@
+---
+
+## 🚀 Getting Started
+
+### Prerequisites
+
+- Node.js + npm
+- Hardhat
+- Trust Wallet or WalletConnect
+- Git
+
+### Setup
+
+```bash
+git clone https://github.com/MrPiNkY2022/double-genius.git
+cd double-genius
+npm install
+npx hardhat compile
+npx hardhat run scripts/deploy.js --network <your-network>
